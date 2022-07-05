@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.apidogithub.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.apidogithub.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.apidogithub.app-mergeDebugResources-30:/layout/item_repo.xml",
+        "source": "com.example.apidogithub.app-main-33:/layout/item_repo.xml"
+    }
+]
